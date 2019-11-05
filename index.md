@@ -30,4 +30,5 @@ pagetitle: Monedas Sociales
 
 - [Cátedra Libre de Nuevas Economías UNLP](https://clineunlp.wordpress.com)
 - [FairCoin](https://fair-coin.org/es)
-- [¿Cómo funciona MonedaPAR?](https://www.youtube.com/watch?v=jgQnlSB1cSQ)
+- [MonedaPar](https://www.monedapar.com.ar)
+- [Un año de FairCoop en Argentina](https://clineunlp.wordpress.com/2019/01/02/un-ano-de-faircoop-en-argentina/)
