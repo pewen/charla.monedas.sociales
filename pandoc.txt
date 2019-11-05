@@ -1,0 +1,1 @@
+pandoc -V lang=es -c css/pandoc.css -t html5 -s -o actividades.html actividades.md
