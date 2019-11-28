@@ -9,6 +9,8 @@ pagetitle: Monedas Sociales
 - Lic. en Antropología (UNLP) y Dr. en Ciencias Sociales (UNLP)
 - Autor del libro "La Economía del Bien Común y otras nuevas economías poscapitalistas"
 
+> Pablo es un promotor de las nuevas economías solidarias, colaborativas, circulares, p2p, las monedas sociales, el decrecimiento, la transición, el software libre y el florecimiento de las personas y los ecosistemas.
+
 #### Temas a desarrollar (1 hr)
 
 * Qué es la riqueza
@@ -27,7 +29,7 @@ pagetitle: Monedas Sociales
 * Vamos a jugar al *"juego del intercambio"*
 
 ### Lugar: Ojo de Barro o El Andino (Río Cuarto)
-### Fecha: A DEFINIR
+### Fecha: A DEFINIR en breve - 6 o 7 de Dic. 2019 -
 
 #### Referencias:
 
