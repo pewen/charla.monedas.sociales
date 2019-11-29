@@ -7,7 +7,7 @@ pagetitle: Monedas Sociales
 #### Dr. Pablo Gustavo Rodriguez
 - Director de la Cátedra Libre de Nuevas Economías (UNLP)
 - Lic. en Antropología (UNLP) y Dr. en Ciencias Sociales (UNLP)
-- Autor del libro "La Economía del Bien Común y otras nuevas economías poscapitalistas"
+- Autor del libro "Economía del Bien Común y otras nuevas economías poscapitalistas"
 
 > Pablo es un promotor de las nuevas economías solidarias, colaborativas, circulares, p2p, las monedas sociales, el decrecimiento, la transición, el software libre y el florecimiento de las personas y los ecosistemas.
 
@@ -31,8 +31,15 @@ pagetitle: Monedas Sociales
 ### Lugar: Ojo de Barro o El Andino (Río Cuarto)
 ### Fecha: A DEFINIR en breve - 6 o 7 de Dic. 2019 -
 
+### Economía del Bien Común y otras nuevas economías poscapitalistas
+
+![](img/libro.jpg)
+
+[Campaña de crowdfunding del libro "Economía del bien común y otras nuevas economías poscapitalistas"](https://econautaseditorial.com/productos/economia-del-bien-comun/)
+
 #### Referencias:
 
+- [Economía del Bien Común y otras nuevas economías poscapitalistas](https://econautaseditorial.com/productos/economia-del-bien-comun/)
 - [Cátedra Libre de Nuevas Economías, Universidad Nacional de La Plata](https://clineunlp.wordpress.com)
 - [FairCoin](https://fair-coin.org/es)
 - [Moneda Par](https://www.monedapar.com.ar)
