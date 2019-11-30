@@ -28,8 +28,8 @@ pagetitle: Monedas Sociales
 
 * Vamos a jugar al *"juego del intercambio"*
 
-### Lugar: Ojo de Barro o El Andino (Río Cuarto)
-### Fecha: A DEFINIR en breve - 6 o 7 de Dic. 2019 -
+### Lugar: Vagón de las flores (Andino), Río Cuarto.
+### Fecha y hr: Viernes 6 de Dic, 20h
 
 ### Economía del Bien Común y otras nuevas economías poscapitalistas
 
