@@ -2,7 +2,9 @@
 pagetitle: Monedas Sociales
 ---
 
-# Conversatorio sobre Monedas Sociales
+# Monedas sociales y complementarias para la sostenibilidad
+
+*Vagón de las flores (Andino), Río Cuarto. 6 dic, 20h*
 
 #### Dr. Pablo Gustavo Rodriguez
 - Director de la Cátedra Libre de Nuevas Economías (UNLP)
@@ -45,8 +47,6 @@ pagetitle: Monedas Sociales
 -------------------
 
 ![](img/cline.jpg)
-
-#### Economía del Bien Común y otras nuevas economías poscapitalistas
 
 ![](img/libro.jpg)
 
