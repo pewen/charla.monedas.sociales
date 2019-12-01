@@ -45,3 +45,5 @@ pagetitle: Monedas Sociales
 - [Moneda Par](https://www.monedapar.com.ar)
 - [Un año de FairCoop en Argentina](https://clineunlp.wordpress.com/2019/01/02/un-ano-de-faircoop-en-argentina/)
 - [El juego del intercambio, de Matthew Slater](https://gopacifia.org/el-juego-del-intercambio/)
+
+![](img/cline.jpg)
