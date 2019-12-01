@@ -28,14 +28,10 @@ pagetitle: Monedas Sociales
 
 * Vamos a jugar al *"juego del intercambio"*
 
-### Lugar: Vagón de las flores (Andino), Río Cuarto.
-### Fecha y hr: Viernes 6 de Dic, 20h
+### Lugar, Fecha y hora
 
-### Economía del Bien Común y otras nuevas economías poscapitalistas
-
-![](img/libro.jpg)
-
-[Campaña de crowdfunding del libro "Economía del bien común y otras nuevas economías poscapitalistas"](https://econautaseditorial.com/productos/economia-del-bien-comun/)
+- Vagón de las flores (Andino), Río Cuarto.
+- Viernes 6 de Dic, 20h
 
 #### Referencias:
 
@@ -46,4 +42,14 @@ pagetitle: Monedas Sociales
 - [Un año de FairCoop en Argentina](https://clineunlp.wordpress.com/2019/01/02/un-ano-de-faircoop-en-argentina/)
 - [El juego del intercambio, de Matthew Slater](https://gopacifia.org/el-juego-del-intercambio/)
 
+-------------------
+
 ![](img/cline.jpg)
+
+#### Economía del Bien Común y otras nuevas economías poscapitalistas
+
+![](img/libro.jpg)
+
+[Campaña de crowdfunding del libro "Economía del bien común y otras nuevas economías poscapitalistas"](https://econautaseditorial.com/productos/economia-del-bien-comun/)
+
+-------------------
