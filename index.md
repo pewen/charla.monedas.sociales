@@ -4,7 +4,7 @@ pagetitle: Monedas Sociales
 
 # Monedas sociales y complementarias para la sostenibilidad
 
-*Vagón de las flores (Andino), Río Cuarto. 6 dic, 20h*
+*Vagón de las flores (Andino), Río Cuarto. 6 dic 2019, 20h*
 
 #### Dr. Pablo Gustavo Rodriguez
 - Director de la Cátedra Libre de Nuevas Economías (UNLP)
@@ -33,7 +33,7 @@ pagetitle: Monedas Sociales
 ### Lugar, Fecha y hora
 
 - Vagón de las flores (Andino), Río Cuarto.
-- Viernes 6 de Dic, 20h
+- Viernes 6 dic 2019, 20h
 
 #### Referencias:
 
