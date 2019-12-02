@@ -2,6 +2,8 @@
 pagetitle: Monedas Sociales
 ---
 
+![](img/flyer.jpg)
+
 # Monedas sociales y complementarias para la sostenibilidad
 
 *Vagón de las flores (Andino), Río Cuarto. 6 dic 2019, 20h*
